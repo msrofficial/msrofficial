@@ -1,83 +1,101 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F7FF&center=true&width=500&lines=MD+Sakibur+Rahman+(MSR);Phone-Based+Coder+%F0%9F%93%B1;Tech+Enthusiast+%F0%9F%92%BB;18+y/o+Developer+%E2%9A%A1%EF%B8%8F" alt="Animated Typing Intro" />
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF729&center=true&vCenter=true&width=435&lines=MD+Sakibur+Rahman;Full+Stack+Developer;Tech+Enthusiast;Photographer;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
-<h3 align="center">
-  <img src="https://img.shields.io/badge/Full_Stack-Developer-00F7FF?style=flat&logo=visual-studio-code&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Hacker-White_Hat-00F7FF?style=flat&logo=hackerone&logoColor=white">
-  <img src="https://img.shields.io/badge/Creative-Photographer-00F7FF?style=flat&logo=adobe-lightroom&logoColor=white">
-</h3>
+<h1 align="center">Hi 👋, I'm Sakibur</h1>
+<h3 align="center">A passionate developer from Bangladesh</h3>
+
+<p align="center">
+  <a href="https://msrsakibur.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://facebook.com/sakibur.msr" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/msr.sakibur" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://t.me/msr0official" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
+---
+
+### 🛠️ My Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  
-[![Facebook](https://img.shields.io/badge/-sakibur.msr-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sakibur.msr)
-[![Instagram](https://img.shields.io/badge/-@msr.sakibur-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/msr.sakibur)
-[![Telegram](https://img.shields.io/badge/-@msr0official-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/msr0official)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00F7FF?style=for-the-badge&logo=netlify&logoColor=black)](https://msrsakibur.netlify.app)
-[![Email](https://img.shields.io/badge/-msr5akibur@wearehackerone.com-00F7FF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:msr5akibur@wearehackerone.com)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msrsakibur&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="msrsakibur's stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msrsakibur&layout=compact&theme=radical" alt="msrsakibur's most used languages" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msrsakibur&theme=radical" alt="msrsakibur's streak" />
 </div>
 
 ---
 
-### 🔥 **About Me**
-```yaml
-name: MD Sakibur Rahman (MSR)
-age: 18
-based: Mobile Coding Station 📱
-interests:
-  - Ethical Hacking 🔐
-  - Photography 📸
-  - Video Editing 🎬
-  - Tech Innovations 💡
-  - Open Source 🌐
-current_focus: "Building while learning"
-```
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=msrsakibur&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="msrsakibur's trophies" />
+</div>
 
 ---
 
-### 💻 **Tech Stack**
-```diff
-+ Mobile-First Development
-+ Web Security Research
-+ Cross-Platform Apps
-+ Creative Digital Content
-```
+### 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1] in [msrsakibur/my-project]
+2. 🚀 Published release v1.0.0 in [msrsakibur/awesome-app]
+3. 💪 Opened PR [#42] in [community/project]
+4. 🎨 Improved UI in [msrsakibur/portfolio]
+5. 🐛 Fixed bug in authentication flow
+<!--END_SECTION:activity-->
 
 ---
 
-### 📊 **GitHub Analytics**
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=msrofficial&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=msrofficial&theme=vision-friendly-dark&hide_border=true&background=00000000">
-</p>
+### 🎧 Now Playing
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msrofficial&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000">
-</p>
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
 
 ---
 
-### 📸 **Creative Side**
-<p align="center">
-  <img src="https://img.shields.io/badge/Adobe-Photoshop-00F7FF?style=flat-square&logo=adobe-photoshop">
-  <img src="https://img.shields.io/badge/Adobe-Premiere-00F7FF?style=flat-square&logo=adobe-premiere-pro">
-  <img src="https://img.shields.io/badge/Lightroom-Editing-00F7FF?style=flat-square&logo=adobe-lightroom">
-</p>
+### 📈 Contribution Graph
+
+[![Sakibur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=msrsakibur&theme=react-dark)](https://github.com/msrsakibur)
 
 ---
 
-### 📫 **Let's Connect**
-<p align="center">
-  <a href="https://msrsakibur.netlify.app">
-    <img src="https://img.shields.io/badge/Visit-My_Portfolio-00F7FF?style=for-the-badge&logo=about.me">
-  </a>
-  <a href="mailto:msr5akibur@wearehackerone.com">
-    <img src="https://img.shields.io/badge/Send-Email-00F7FF?style=for-the-badge&logo=minutemailer">
-  </a>
-</p>
+### 💡 Fun Fact
+
+I spend approximately 🕒 30% of my time coding, 🕒 20% sleeping, and 🕒 50% thinking about what to code next!
+
+---
+
+### 📫 How to reach me
+
+- Website: [msrsakibur.netlify.app](https://msrsakibur.netlify.app)
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- Telegram: [@msr0official](https://t.me/msr0official)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=msrofficial&label=Profile+Views&color=00F7FF&style=flat" alt="MSR's Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=msrsakibur&label=Profile%20views&color=0e75b6&style=flat" alt="msrsakibur" />
 </p>
-```
