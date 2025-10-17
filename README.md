@@ -3,10 +3,10 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Sakibur</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
+<h3 align="center">A beginner developer from Bangladesh</h3>
 
 <p align="center">
-  <a href="https://msrsakibur.netlify.app" target="_blank">
+  <a href="https://msrsakibur.site" target="_blank">
     <img src="https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://facebook.com/sakibur.msr" target="_blank">
@@ -60,40 +60,16 @@
 
 ---
 
-### 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1] in [msrofficial/my-project]
-2. 🚀 Published release v1.0.0 in [msrofficial/awesome-app]
-3. 💪 Opened PR [#42] in [community/project]
-4. 🎨 Improved UI in [msrofficial/portfolio]
-5. 🐛 Fixed bug in authentication flow
-<!--END_SECTION:activity-->
-
----
-
-### 🎧 Now Playing
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
-
----
-
 ### 📈 Contribution Graph
 
 [![Sakibur's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=msrofficial&theme=react-dark)](https://github.com/msrofficial)
 
 ---
 
-### 💡 Fun Fact
-
-I spend approximately 🕒 30% of my time coding, 🕒 20% sleeping, and 🕒 50% thinking about what to code next!
-
----
-
 ### 📫 How to reach me
 
-- Website: [msrsakibur.netlify.app](https://msrsakibur.netlify.app)
-- Email: [msr5akibur@wearehackerone.com](mailto:msr5akibur@wearehackerone.com)
+- Website: [msrsakibur.site](https://msrsakibur.site)
+- Email: [work.msr01@gmail.com](mailto: work.msr01@gmail.com)
 - Telegram: [@msr0official](https://t.me/msr0official)
 
 <p align="center">
