@@ -9,7 +9,7 @@
   <a href="https://msrsakibur.site" target="_blank">
     <img src="https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://facebook.com/sakibur.msr" target="_blank">
+  <a href="https://facebook.com/msr.sakiburr" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://instagram.com/msr.sakibur" target="_blank">
