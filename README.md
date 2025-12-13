@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=MD+Sakibur+Rahman;AndroShikhi+Creator;Full+Stack+Developer;Minecraft+Server+Owner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=MD+Sakibur+Rahman;Full+Stack+Developer;Tech+Enthusiast;Photographer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <h1 align="center">Hi 👋, I'm <a href="https://msrsakibur.site">Sakibur</a>!</h1>
@@ -10,10 +10,10 @@
   <a href="https://msrsakibur.site" target="_blank">
     <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://www.youtube.com/@AndroShikhi" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="AndroShikhi"/>
+  <a href="https://www.youtube.com/@msr.sakibur" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="MSRxSakibur"/>
   </a>
-  <a href="https://facebook.com/msr.sakiburr" target="_blank">
+  <a href="https://facebook.com/sakibur.msr" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://instagram.com/msr.sakibur" target="_blank">
@@ -28,8 +28,8 @@
 
 ### ⚡ About Me
 
-- 🔭 I’m currently working on **AndroShikhi & Web Projects**
-- 🌱 I’m currently learning **Advanced Server Management (Linux)**
+- 🔭 I’m currently working on **Web Projects**
+- 🌱 I’m currently learning **Anything**
 - 🎮 I love **Minecraft, Pokémon GO & Hollow Knight**
 - 💬 Ask me about **Android, Python, and Video Editing**
 - 📫 Reach me at: **work.msr01@gmail.com**
@@ -62,16 +62,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=msrofficial&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Streak" />
-</div>
-
----
-
-### 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=msrofficial&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</div>
 
 ---
 
