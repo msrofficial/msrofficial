@@ -30,7 +30,6 @@
 
 - 🔭 I’m currently working on **Web Projects**
 - 🌱 I’m currently learning **Anything**
-- 🎮 I love **Minecraft, Pokémon GO & Hollow Knight**
 - 💬 Ask me about **Android, Python, and Video Editing**
 - 📫 Reach me at: **work.msr01@gmail.com**
 
