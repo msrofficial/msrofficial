@@ -55,7 +55,7 @@
 ### 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msrofficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msrofficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msrofficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
@@ -63,14 +63,14 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msrofficial&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=msrofficial&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Streak" />
 </div>
 
 ---
 
 ### 🏆 Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=msrofficial&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=msrofficial&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
 ---
