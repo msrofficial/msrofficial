@@ -74,3 +74,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=msrofficial&label=Profile%20views&color=0e75b6&style=flat" alt="msrofficial" />
 </p>
+
+## Visitor Counter
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@msrofficial?theme=moebooru" alt="Visitor Count" />
+</p>
