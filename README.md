@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/Picsart_26-03-03_14-54-15-997.webp">
+  <img src="assets/Picsart_26-03-03_14-54-15-997.webp" width="200">
 </div>
     
 <h1 align="center">Hi, I'm <a href="https://msrsakibur.site">Sakibur</a>!</h1>
