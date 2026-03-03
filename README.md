@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="assets/Picsart_26-03-03_14-54-15-997.webp" width="50">
-</div>
-    
+
 <h1 align="center">Hi, I'm <a href="https://msrsakibur.site">Sakibur</a>!</h1>
 <h3 align="center">Tech Enthusiast | Content Creator | Developer from Bangladesh</h3>
 
