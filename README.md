@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm <a href="https://msrsakibur.site">Sakibur</a>!</h1>
-<h3 align="center">🚀 Tech Enthusiast | Content Creator | Developer from Bangladesh</h3>
+<h3 align="center">Tech Enthusiast | Content Creator | Developer from Bangladesh</h3>
 
 <p align="center">
   <a href="https://msrsakibur.site" target="_blank">
@@ -26,7 +26,7 @@
 
 ---
 
-### ⚡ About Me
+### About Me
 
 - 🔭 I’m currently working on **Web Projects**
 - 🌱 I’m currently learning **Anything**
@@ -35,7 +35,7 @@
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/>
@@ -50,25 +50,9 @@
 </div>
 
 ---
-
-### 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msrofficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msrofficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
-</div>
-
-
----
-
-### 🐍 Contribution Snake
 <div align="center">
   <img src="https://github.com/msrofficial/msrofficial/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
 ---
 
 <p align="center">
