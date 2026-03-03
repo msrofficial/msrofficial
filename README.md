@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=MD+Sakibur+Rahman;Full+Stack+Developer;Tech+Enthusiast;Photographer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="assets/Picsart_26-03-03_14-54-15-997.webp/>
 </div>
 
 <h1 align="center">Hi 👋, I'm <a href="https://msrsakibur.site">Sakibur</a>!</h1>
