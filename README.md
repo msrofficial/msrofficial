@@ -16,18 +16,14 @@
   <a href="https://t.me/msrpatchchat"><img src="https://img.shields.io/badge/TG%20Group-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=msrofficial&color=05E8BA&style=for-the-badge&label=Profile+Views&abbreviated=true" />
-</p>
-
 ---
 
-- 🐍 Independent developer working primarily in **Python** and **Android (Termux)**
-- 🔧 Building and maintaining tools under the **MSR** / **msrofficial** brand
-- 📱 Work entirely from **Android** — no PC, full power in Termux
-- 🌐 Check out my website at **[msrsakibur.pro.bd](https://msrsakibur.pro.bd)**
-- 🎌 Passionate about **Anime** and the AniList/MAL ecosystem
-- 💬 Ask me about **Python, Android hacking tools, APK modding, obfuscation**
+- Independent developer working primarily in **Python** and **Android (Termux)**
+- Building and maintaining tools under the **MSR** / **msrofficial** brand
+- Work entirely from **Android** — no PC, full power in Termux
+- Check out my website at **[msrsakibur.pro.bd](https://msrsakibur.pro.bd)**
+- Passionate about **Anime** and the AniList/MAL ecosystem
+- Ask me about **Python, Android hacking tools, APK modding, obfuscation**
 
 ---
 
@@ -154,4 +150,8 @@
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:05E8BA,100:087EE1&section=footer" />
+</p>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@msrofficial?theme=moebooru" alt="Visitor Count" />
 </p>
