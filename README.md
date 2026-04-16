@@ -3,23 +3,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/msrofficial"><img src="https://img.shields.io/badge/GitHub-msrofficial-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://msrsakibur.pro.bd"><img src="https://img.shields.io/badge/Website-msrsakibur.pro.bd-05E8BA?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <a href="https://facebook.com/sakibur.msr"><img src="https://img.shields.io/badge/Facebook-sakibur.msr-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/msr.sakibur"><img src="https://img.shields.io/badge/Instagram-msr.sakibur-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://twitter.com/msrsakibur"><img src="https://img.shields.io/badge/Twitter-msrsakibur-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://reddit.com/u/msrsakibur"><img src="https://img.shields.io/badge/Reddit-msrsakibur-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <a href="https://youtube.com/@msr.sakibur"><img src="https://img.shields.io/badge/YouTube-@msr.sakibur-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://discord.com/users/sakibur.msr"><img src="https://img.shields.io/badge/Discord-sakibur.msr-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://t.me/msr0official"><img src="https://img.shields.io/badge/Telegram-msr0official-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://t.me/msrpatch"><img src="https://img.shields.io/badge/TG%20Channel-msrpatch-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://t.me/msrpatchchat"><img src="https://img.shields.io/badge/TG%20Group-msrpatchchat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://github.com/msrofficial"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+  <a href="https://msrsakibur.pro.bd"><img src="https://img.shields.io/badge/Website-05E8BA?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>&nbsp;
+  <a href="https://facebook.com/sakibur.msr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>&nbsp;
+  <a href="https://instagram.com/msr.sakibur"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
+  <a href="https://twitter.com/msrsakibur"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>&nbsp;
+  <a href="https://reddit.com/u/msrsakibur"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>&nbsp;
+  <a href="https://youtube.com/@msr.sakibur"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>&nbsp;
+  <a href="https://discord.com/users/sakibur.msr"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>&nbsp;
+  <a href="https://t.me/msr0official"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>&nbsp;
+  <a href="https://t.me/msrpatch"><img src="https://img.shields.io/badge/TG%20Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>&nbsp;
+  <a href="https://t.me/msrpatchchat"><img src="https://img.shields.io/badge/TG%20Group-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -37,7 +31,7 @@
 
 ---
 
-<h2 align="left">🔥 Featured Projects</h2>
+<h2 align="left">Featured Projects</h2>
 
 <table>
   <tr>
@@ -45,34 +39,42 @@
       <a href="https://github.com/msrofficial/WiFuX">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=msrofficial&repo=WiFuX&border_color=30363D&theme=dracula&show_icons=true&icon_color=05E8BA&border_radius=0&bg_color=00000000&hide_border=true" alt="WiFuX" />
       </a>
-      <br/><b>WiFuX</b> — WiFi WPS Auditing Tool for Termux/Android
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/msrofficial/Anilab-Mod">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=msrofficial&repo=Anilab-Mod&border_color=30363D&theme=dracula&show_icons=true&icon_color=05E8BA&border_radius=0&bg_color=00000000&hide_border=true" alt="Anilab-Mod" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/msrofficial/Moviebox-Mod">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=msrofficial&repo=Moviebox-Mod&border_color=30363D&theme=dracula&show_icons=true&icon_color=05E8BA&border_radius=0&bg_color=00000000&hide_border=true" alt="Moviebox-Mod" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/msrofficial/OnStream-Mod">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=msrofficial&repo=OnStream-Mod&border_color=30363D&theme=dracula&show_icons=true&icon_color=05E8BA&border_radius=0&bg_color=00000000&hide_border=true" alt="OnStream-Mod" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/msrofficial/fix-termux-root">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=msrofficial&repo=fix-termux-root&border_color=30363D&theme=dracula&show_icons=true&icon_color=05E8BA&border_radius=0&bg_color=00000000&hide_border=true" alt="fix-termux-root" />
+      </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/msrofficial/MSR-Obfuscator">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=msrofficial&repo=MSR-Obfuscator&border_color=30363D&theme=dracula&show_icons=true&icon_color=05E8BA&border_radius=0&bg_color=00000000&hide_border=true" alt="MSR Obfuscator" />
       </a>
-      <br/><b>MSR Obfuscator</b> — Multi-layer Python code obfuscation engine
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/msrofficial/Nihoru">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=msrofficial&repo=Nihoru&border_color=30363D&theme=dracula&show_icons=true&icon_color=05E8BA&border_radius=0&bg_color=00000000&hide_border=true" alt="Nihoru" />
-      </a>
-      <br/><b>Nihoru</b> — AniList → MyAnimeList XML converter web app
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/msrofficial/NihoruAndroid">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=msrofficial&repo=NihoruAndroid&border_color=30363D&theme=dracula&show_icons=true&icon_color=05E8BA&border_radius=0&bg_color=00000000&hide_border=true" alt="NihoruAndroid" />
-      </a>
-      <br/><b>NihoruAndroid</b> — Native Kotlin Android app (MVVM + Room + OkHttp)
     </td>
   </tr>
 </table>
 
 ---
 
-<h2 align="left">🛠️ Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 <table>
   <tr>
@@ -117,7 +119,7 @@
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="left">GitHub Stats</h2>
 
 <table>
   <tr>
