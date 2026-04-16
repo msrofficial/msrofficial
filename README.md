@@ -147,11 +147,10 @@
 
 ---
 
-
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:05E8BA,100:087EE1&section=footer" />
+  <img src="https://count.getloli.com/get/@msrofficial?theme=moebooru" alt="Visitor Count" />
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@msrofficial?theme=moebooru" alt="Visitor Count" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:05E8BA,100:087EE1&section=footer" />
 </p>
