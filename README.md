@@ -18,12 +18,12 @@
 
 ---
 
-- Independent developer working primarily in **Python** and **Android (Termux)**
-- Building and maintaining tools under the **MSR** / **msrofficial** brand
+- Independent developer working on **Web Projects** and **Android**.
+- Building and maintaining tools under the **MSR** / **msrpatch** brand
 - Work entirely from **Android** — no PC.
 - Check out my website at **[msrsakibur.pro.bd](https://msrsakibur.pro.bd)**
-- Passionate about **Anime**.
-- Ask me about **Python, Android hacking tools, APK modding, obfuscation**
+- Want to learn and explore.
+- Ask me about **web projects, Android tools, APK modding**.
 
 ---
 
