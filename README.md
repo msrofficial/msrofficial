@@ -61,8 +61,8 @@
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/msrofficial/MSR-Obfuscator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=msrofficial&repo=MSR-Obfuscator&border_color=30363D&theme=dracula&show_icons=true&icon_color=05E8BA&border_radius=0&bg_color=00000000&hide_border=true" alt="MSR Obfuscator" />
+      <a href="https://github.com/msrofficial/MangaFox-Mod">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=msrofficial&repo=MangaFox-Mod&border_color=30363D&theme=dracula&show_icons=true&icon_color=05E8BA&border_radius=0&bg_color=00000000&hide_border=true" alt="MangaFox Mod" />
       </a>
     </td>
   </tr>
