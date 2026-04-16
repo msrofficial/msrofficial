@@ -20,9 +20,9 @@
 
 - Independent developer working primarily in **Python** and **Android (Termux)**
 - Building and maintaining tools under the **MSR** / **msrofficial** brand
-- Work entirely from **Android** — no PC, full power in Termux
+- Work entirely from **Android** — no PC.
 - Check out my website at **[msrsakibur.pro.bd](https://msrsakibur.pro.bd)**
-- Passionate about **Anime** and the AniList/MAL ecosystem
+- Passionate about **Anime**.
 - Ask me about **Python, Android hacking tools, APK modding, obfuscation**
 
 ---
