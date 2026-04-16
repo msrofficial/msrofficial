@@ -18,12 +18,12 @@
 
 ---
 
-- Independent developer working on **Web Projects** and **Android**.
-- Building and maintaining tools under the **MSR** / **msrpatch** brand
+- Independent developer from Bangladesh.
+- Working on **Web Projects** and **Android**.
+- Building and maintaining tools under the **MSR** / **msrpatch** brand.
 - Work entirely from **Android** — no PC.
 - Check out my website at **[msrsakibur.pro.bd](https://msrsakibur.pro.bd)**
-- Want to learn and explore.
-- Ask me about **web projects, Android tools, APK modding**.
+- Want to learn and explore more and more.
 
 ---
 
