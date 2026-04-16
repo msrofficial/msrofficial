@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0A0A0A,50:087EE1,100:05E8BA&text=👋%20Hey!%20I'm%20MSR%20Sakibur&textBg=false&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Independent%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Creator%20%7C%20Bangladesh&section=header&animation=fadeIn&descAlignY=52" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0A0A0A,50:087EE1,100:05E8BA&text=👋%20Hey!%20I'm%20MSR%20Sakibur&textBg=false&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Independent%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Content%20Creator%20%7C%20Bangladesh&section=header&animation=fadeIn&descAlignY=52" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-- Independent developer from Bangladesh.
+- Independent developer from **Bangladesh**.
 - Working on **Web Projects** and **Android**.
 - Building and maintaining tools under the **MSR** / **msrpatch** brand.
 - Work entirely from **Android** — no PC.
