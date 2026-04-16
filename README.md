@@ -75,40 +75,54 @@
 <table>
   <tr>
     <td align="center" width="98">
-      <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/python-dark.svg" width="48" height="48" alt="Python" />
-      <br/>Python
+      <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/html.svg" width="48" height="48" alt="HTML5" />
+      <br/>HTML
     </td>
     <td align="center" width="98">
-      <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/kotlin-dark.svg" width="48" height="48" alt="Kotlin" />
-      <br/>Kotlin
-    </td>
-    <td align="center" width="98">
-      <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/java-dark.svg" width="48" height="48" alt="Java" />
-      <br/>Java
-    </td>
-    <td align="center" width="98">
-      <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/bash-dark.svg" width="48" height="48" alt="Bash" />
-      <br/>Bash
+      <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/css.svg" width="48" height="48" alt="CSS3" />
+      <br/>CSS
     </td>
     <td align="center" width="98">
       <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/javascript-dark.svg" width="48" height="48" alt="JavaScript" />
       <br/>JavaScript
     </td>
     <td align="center" width="98">
-      <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/html.svg" width="48" height="48" alt="HTML5" />
-      <br/>HTML5
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br/>TypeScript
     </td>
     <td align="center" width="98">
-      <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/css.svg" width="48" height="48" alt="CSS3" />
-      <br/>CSS3
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br/>Node.js
+    </td>
+    <td align="center" width="98">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      <br/>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="98">
+      <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/java-dark.svg" width="48" height="48" alt="Java" />
+      <br/>Java
+    </td>
+    <td align="center" width="98">
+      <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/kotlin-dark.svg" width="48" height="48" alt="Kotlin" />
+      <br/>Kotlin
+    </td>
+    <td align="center" width="98">
+      <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/python-dark.svg" width="48" height="48" alt="Python" />
+      <br/>Python
+    </td>
+    <td align="center" width="98">
+      <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/bash-dark.svg" width="48" height="48" alt="Bash" />
+      <br/>Bash
     </td>
     <td align="center" width="98">
       <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/git-dark.svg" width="48" height="48" alt="Git" />
       <br/>Git
     </td>
     <td align="center" width="98">
-      <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/regex-dark.svg" width="48" height="48" alt="RegEx" />
-      <br/>RegEx
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/smali/smali-original.svg" width="48" height="48" alt="Smali" />
+      <br/>Smali
     </td>
   </tr>
 </table>
