@@ -160,9 +160,9 @@
 </table>
 
 ---
-
+##Profile Views:
 <p align="center">
-  <img src="https://count.getloli.com/get/@msrofficial?theme=moebooru" alt="Visitor Count" />
+  <img src="https://count.getloli.com/@msrofficial?name=msrofficial&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visitor Count" />
 </p>
 
 <p align="center">
