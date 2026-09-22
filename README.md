@@ -26,7 +26,6 @@
 - Want to learn and explore more and more.
 
 ---
-
 <h2 align="left">Featured Projects</h2>
 
 <table>
@@ -37,37 +36,12 @@
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/msrofficial/Anilab-Mod">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=msrofficial&repo=Anilab-Mod&border_color=30363D&theme=dracula&show_icons=true&icon_color=05E8BA&border_radius=0&bg_color=00000000&hide_border=true" alt="Anilab-Mod" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/msrofficial/Moviebox-Mod">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=msrofficial&repo=Moviebox-Mod&border_color=30363D&theme=dracula&show_icons=true&icon_color=05E8BA&border_radius=0&bg_color=00000000&hide_border=true" alt="Moviebox-Mod" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/msrofficial/OnStream-Mod">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=msrofficial&repo=OnStream-Mod&border_color=30363D&theme=dracula&show_icons=true&icon_color=05E8BA&border_radius=0&bg_color=00000000&hide_border=true" alt="OnStream-Mod" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
       <a href="https://github.com/msrofficial/fix-termux-root">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=msrofficial&repo=fix-termux-root&border_color=30363D&theme=dracula&show_icons=true&icon_color=05E8BA&border_radius=0&bg_color=00000000&hide_border=true" alt="fix-termux-root" />
       </a>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/msrofficial/MangaFox-Mod">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=msrofficial&repo=MangaFox-Mod&border_color=30363D&theme=dracula&show_icons=true&icon_color=05E8BA&border_radius=0&bg_color=00000000&hide_border=true" alt="MangaFox Mod" />
-      </a>
-    </td>
   </tr>
 </table>
-
 ---
 
 <h2 align="left">Tech Stack</h2>
